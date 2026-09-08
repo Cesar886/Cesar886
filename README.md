@@ -16,15 +16,15 @@
 
 <br>
 
-## 🧑‍💻 About Me
+## 🌱 About Me
 
-- 🎓 Studying **Ingeniería en Sistemas Computacionales** at Universidad de Montemorelos
-- 🌐 Also enrolled at **UMGC**, taking Cybersecurity & African American Studies courses
-- 💼 Run a **freelance web development business**, building custom sites and closing clients directly
-- 🚀 Independently designing and shipping full production apps — marketplaces, content platforms, and utility apps
-- 📍 Based in Montemorelos, Nuevo León, México
-- 🌱 Currently deep in: payment integrations, SEO automation, and anti-fraud/verification systems
-- 🌐 Check out my portfolio: **[dev.danielrdz.site](https://dev.danielrdz.site)**
+-  Studying **Ingeniería en Sistemas Computacionales** at Universidad de Montemorelos
+-  Also enrolled at **UMGC**, taking Cybersecurity & African American Studies courses
+-  Run a **freelance web development business**, building custom sites and closing clients directly
+-  Independently designing and shipping full production apps — marketplaces, content platforms, and utility apps
+-  Based in Montemorelos, Nuevo León, México
+-  Currently deep in: payment integrations, SEO automation, and anti-fraud/verification systems
+-  Check out my portfolio: **[dev.danielrdz.site](https://dev.danielrdz.site)**
 
 <br>
 
