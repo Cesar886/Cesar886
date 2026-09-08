@@ -36,7 +36,7 @@ building and maintaining them.
 
 <br>
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
