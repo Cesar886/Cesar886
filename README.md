@@ -24,6 +24,17 @@
 - 🚀 Independently designing and shipping full production apps — marketplaces, content platforms, and utility apps
 - 📍 Based in Montemorelos, Nuevo León, México
 - 🌱 Currently deep in: payment integrations, SEO automation, and anti-fraud/verification systems
+- 🌐 Check out my portfolio: **[dev.danielrdz.site](https://dev.danielrdz.site)**
+
+<br>
+
+<div align="center">
+
+|  9+  |  3  |  3+  |  100%  |
+|:---:|:---:|:---:|:---:|
+| Proyectos entregados | Plataformas en producción | Años de experiencia | Compromiso con el resultado |
+
+</div>
 
 <br>
 
@@ -53,56 +64,80 @@
 
 ## 🚀 Featured Projects
 
+### 🟢 En producción — dominio propio y tráfico activo
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 MercadoUm
-**Local commerce marketplace app** for university communities
+### 🛒 [MercadoUm](https://github.com/Cesar886/MaketplaceUm)
+**Marketplace local de comercio** para comunidades universitarias
 
 - Flutter frontend · Node.js/Express/SQLite backend
-- Manual business-account verification pipeline
-- Full admin panel: moderation, audit logs, backups
-- Mercado Pago payments with idempotent order handling
-- Deployed on DigitalOcean (PM2 + Apache + SSL)
+- Verificación manual de cuentas de negocio
+- Panel admin completo: moderación, auditoría, backups
+- Pagos con Mercado Pago (idempotencia, webhooks)
+- Deploy en DigitalOcean (PM2 + Apache + SSL)
 
 </td>
 <td width="50%" valign="top">
 
-### 📖 Manhwa Imperial
-**Spanish-language manhwa/webtoon platform** targeting LATAM & growing US traffic
+### 📖 [Manhwa Imperial](https://manhwaimperial.site)
+**Plataforma de lectura Manhwa/Webtoon** con tráfico real y usuarios activos
 
-- Next.js + PostgreSQL
-- Bilingual SEO architecture with hreflang
-- Multi-agent SEO automation pipeline
-- Ad monetization (Adsterra) + VIP tier design
-- Behavioral analytics across 6 data modules
+- Next.js + PostgreSQL, App Router
+- Búsqueda semántica + sync de lectura por usuario
+- Arquitectura SEO bilingüe con hreflang
+- Pipeline de automatización SEO multi-agente
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 UniConnect
-**University matchmaking web app** for Universidad de Montemorelos students
+### 🌐 [JoinGroups.lat](https://github.com/Cesar886/joingroups-next)
+**Plataforma web** para conectar usuarios con comunidades online
 
-- Next.js + PostgreSQL web app
-- Flutter companion mobile app
-- Deployed on DigitalOcean (Apache + PM2 + SSL)
+- Web app responsive, dominio propio
+- Desplegado en Vercel
+- Enfoque en acceso rápido desde móvil/escritorio
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 ColportorUm
-**Door-to-door literature sales** field app
+### 🍽️ [Fonda El Limoncito](https://restaurant.fonda-el-limoncito.site/)
+**Sitio web comercial** para restaurante en Barrio Antiguo, Monterrey
 
-- Flutter app with PDF invoice generation
-- WhatsApp integration (wa.me)
-- Privacy-first mapping: logistics only, never resident data
+- HTML/CSS responsive
+- SEO local — aparece en Google con reseñas integradas
+- Menú, historia, horarios y contacto directo
 
 </td>
 </tr>
 </table>
+
+### 📱 Ecosistema [ColportorUm](https://github.com/Cesar886/ColportorUm) — App + Dashboard
+
+- **App móvil (Flutter/Dart):** automatiza el ciclo de venta de colportores — pedidos, facturas PDF, envío directo por WhatsApp API
+- **Dashboard admin (Next.js/PostgreSQL):** ventas en tiempo real, roles y permisos, analítica de facturación e inventario
+
+### 🤖 [WebMCP-Challenge](https://github.com/Cesar886/WebMCP-Challenge)
+**Dashboard full-stack de ventas y gestión** implementando WebMCP
+
+- Permite a agentes de IA consultar de forma segura logs de transacciones
+- Cálculo de métricas expuesto a agentes vía protocolo WebMCP
+- HTML · Apache License 2.0
+
+### 🎓 UniConnect
+**Web app de matchmaking universitario** para estudiantes de la Universidad de Montemorelos — Next.js + PostgreSQL, con app móvil complementaria en Flutter
+
+### 🏛️ App Museo — Universidad de Montemorelos
+Guía interactiva contratada por una institución académica real: recorrido digital, escaneo QR y planos interactivos (Flutter, offline-first)
+
+### 🔬 Proyectos académicos / experimentales
+- **Modelo IA — One Card:** matching y validación de transferencias con fuzzy logic + ML, reduciendo fraude en tarjetas de despensa/combustible
+- **PseudoC:** parser de descenso recursivo para un subconjunto de C, en Java
+- **Galería API:** REST API en PHP desplegada en VPS Linux (DigitalOcean)
 
 <br>
 
@@ -125,10 +160,13 @@
 
 <div align="center">
 
-<!-- Reemplaza estos enlaces con tus perfiles reales -->
+**¿Tienes un proyecto? Hablemos ahora — respondo en menos de 24 horas.**
+
+<a href="https://wa.me/528261288953?text=Hola%20Cesar%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20interesa%20trabajar%20contigo"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/daniel-rodriguez-20a49b303/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:danielrodriguezh.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://dev.danielrdz.site"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://github.com/Cesar886"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
 
