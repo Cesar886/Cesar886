@@ -14,18 +14,28 @@
 
 </div>
 
-<br>
+<table width="100%">
+<tr>
+<td>
 
-## 🌱 About Me [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Cesar886)
+## 🌱 About Me
 
+</td>
+<td align="right">
 
--  Studying **Ingeniería en Sistemas Computacionales** at Universidad de Montemorelos
--  Also enrolled at **UMGC**, taking Cybersecurity & African American Studies courses
--  Run a **freelance web development business**, building custom sites and closing clients directly
--  Independently designing and shipping full production apps — marketplaces, content platforms, and utility apps
--  Based in Montemorelos, Nuevo León, México
--  Currently deep in: payment integrations, SEO automation, and anti-fraud/verification systems
--  Check out my portfolio: **[dev.danielrdz.site](https://dev.danielrdz.site)**
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Cesar886)
+
+</td>
+</tr>
+</table>
+
+- Studying **Ingeniería en Sistemas Computacionales** at Universidad de Montemorelos
+- Also enrolled at **UMGC**, taking Cybersecurity & African American Studies courses
+- Run a **freelance web development business**, building custom sites and closing clients directly
+- Independently designing and shipping full production apps — marketplaces, content platforms, and utility apps
+- Based in Montemorelos, Nuevo León, México
+- Currently deep in: payment integrations, SEO automation, and anti-fraud/verification systems
+- Check out my portfolio: **[dev.danielrdz.site](https://dev.danielrdz.site)**
 
 <br>
 
