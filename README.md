@@ -64,8 +64,6 @@
 
 ## 🚀 Featured Projects
 
-### 🟢 En producción — dominio propio y tráfico activo
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -82,17 +80,25 @@
 </td>
 <td width="50%" valign="top">
 
-### 📖 [Manhwa Imperial](https://manhwaimperial.site)
-**Plataforma de lectura Manhwa/Webtoon** con tráfico real y usuarios activos
+### 📱 [ColportorUm](https://github.com/Cesar886/ColportorUm)
+**Ecosistema app + dashboard** para ventas de campo
 
-- Next.js + PostgreSQL, App Router
-- Búsqueda semántica + sync de lectura por usuario
-- Arquitectura SEO bilingüe con hreflang
-- Pipeline de automatización SEO multi-agente
+- App móvil (Flutter/Dart): pedidos, facturas PDF, envío por WhatsApp API
+- Dashboard admin (Next.js/PostgreSQL): ventas en tiempo real, roles y analítica
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🤖 [WebMCP-Challenge](https://github.com/Cesar886/WebMCP-Challenge)
+**Dashboard full-stack de ventas y gestión** implementando WebMCP
+
+- Agentes de IA consultan de forma segura logs de transacciones
+- Cálculo de métricas expuesto a agentes vía protocolo WebMCP
+- HTML · Apache License 2.0
+
+</td>
 <td width="50%" valign="top">
 
 ### 🌐 [JoinGroups.lat](https://github.com/Cesar886/joingroups-next)
@@ -103,41 +109,8 @@
 - Enfoque en acceso rápido desde móvil/escritorio
 
 </td>
-<td width="50%" valign="top">
-
-### 🍽️ [Fonda El Limoncito](https://restaurant.fonda-el-limoncito.site/)
-**Sitio web comercial** para restaurante en Barrio Antiguo, Monterrey
-
-- HTML/CSS responsive
-- SEO local — aparece en Google con reseñas integradas
-- Menú, historia, horarios y contacto directo
-
-</td>
 </tr>
 </table>
-
-### 📱 Ecosistema [ColportorUm](https://github.com/Cesar886/ColportorUm) — App + Dashboard
-
-- **App móvil (Flutter/Dart):** automatiza el ciclo de venta de colportores — pedidos, facturas PDF, envío directo por WhatsApp API
-- **Dashboard admin (Next.js/PostgreSQL):** ventas en tiempo real, roles y permisos, analítica de facturación e inventario
-
-### 🤖 [WebMCP-Challenge](https://github.com/Cesar886/WebMCP-Challenge)
-**Dashboard full-stack de ventas y gestión** implementando WebMCP
-
-- Permite a agentes de IA consultar de forma segura logs de transacciones
-- Cálculo de métricas expuesto a agentes vía protocolo WebMCP
-- HTML · Apache License 2.0
-
-### 🎓 UniConnect
-**Web app de matchmaking universitario** para estudiantes de la Universidad de Montemorelos — Next.js + PostgreSQL, con app móvil complementaria en Flutter
-
-### 🏛️ App Museo — Universidad de Montemorelos
-Guía interactiva contratada por una institución académica real: recorrido digital, escaneo QR y planos interactivos (Flutter, offline-first)
-
-### 🔬 Proyectos académicos / experimentales
-- **Modelo IA — One Card:** matching y validación de transferencias con fuzzy logic + ML, reduciendo fraude en tarjetas de despensa/combustible
-- **PseudoC:** parser de descenso recursivo para un subconjunto de C, en Java
-- **Galería API:** REST API en PHP desplegada en VPS Linux (DigitalOcean)
 
 <br>
 
