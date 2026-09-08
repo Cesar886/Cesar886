@@ -26,7 +26,7 @@
 
 <br>
 
-### 💛 Support my work
+### 💜 Support my work
 
 If you've found value in my open source projects like WebMCP-Challenge,
 consider becoming a sponsor — it helps me dedicate more time to
@@ -36,7 +36,7 @@ building and maintaining them.
 
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -60,7 +60,7 @@ building and maintaining them.
 
 <br>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -112,7 +112,7 @@ building and maintaining them.
 
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -127,7 +127,7 @@ building and maintaining them.
 
 <br>
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
