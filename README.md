@@ -30,7 +30,8 @@
 
 If you've found value in my open source projects like WebMCP-Challenge,
 consider becoming a sponsor — it helps me dedicate more time to
-building and maintaining them. [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Cesar886)
+building and maintaining them. 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Cesar886)
 
 <br>
 
@@ -136,6 +137,7 @@ building and maintaining them. [![Sponsor](https://img.shields.io/badge/Sponsor-
 <a href="mailto:danielrodriguezh.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://dev.danielrdz.site"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://github.com/Cesar886"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Cesar886)
 
 </div>
 
