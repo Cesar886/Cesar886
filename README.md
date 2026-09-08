@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=200&section=header&text=Daniel%20rRodríguez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=200&section=header&text=Daniel%20Rodríguez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Freelance+Web+Developer;Building+Marketplace%2C+Manhwa+%26+EdTech+apps;Flutter+%2B+Next.js+%2B+Node.js;Always+shipping+something+new" />
