@@ -14,7 +14,7 @@
 
 </div>
 
-## 🌱 About Me                                      [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Cesar886)
+## 🌱 About Me                               
 
 - Studying **Ingeniería en Sistemas Computacionales** at Universidad de Montemorelos
 - Also enrolled at **UMGC**, taking Cybersecurity & African American Studies courses
@@ -30,9 +30,7 @@
 
 If you've found value in my open source projects like WebMCP-Challenge,
 consider becoming a sponsor — it helps me dedicate more time to
-building and maintaining them.
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Cesar886)
+building and maintaining them. [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Cesar886)
 
 <br>
 
