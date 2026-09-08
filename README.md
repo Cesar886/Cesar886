@@ -116,8 +116,8 @@ building and maintaining them.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cesar886&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar886&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cesar886&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar886&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 <br>
 
