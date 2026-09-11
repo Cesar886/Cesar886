@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/Cesar886">
-  <img src="https://komarev.com/ghpvc/?username=Cesar886&label=Profile%20Views&color=6C63FF&style=flat" />
+  ![Profile Views](./assets/profile-views-badge.svg)
 </a>
 
 </div>
