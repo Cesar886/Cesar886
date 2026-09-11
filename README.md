@@ -8,9 +8,7 @@
 
 <br>
 
-<a href="https://github.com/Cesar886">
-  ![Profile Views](./assets/profile-views-badge.svg)
-</a>
+![Profile Views](./assets/profile-views-badge.svg)
 
 </div>
 
